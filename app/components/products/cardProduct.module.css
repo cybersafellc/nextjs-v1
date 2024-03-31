@@ -1,0 +1,29 @@
+.card {
+  border: 1px solid white;
+  width: 100%;
+  padding: 25px;
+  border-radius: 20px;
+  background-color: wheat;
+  color: black;
+  margin: 20px 0px;
+  box-sizing: border-box;
+}
+.card p {
+  font-size: 15px;
+  font-weight: lighter;
+}
+.card p:nth-child(2) {
+  font-weight: bold;
+}
+.card button {
+  border: 1px solid black;
+  padding: 10px 30px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+.userId {
+  font-size: 25px;
+  font-weight: bold;
+}

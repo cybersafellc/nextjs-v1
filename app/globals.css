@@ -31,3 +31,14 @@ body {
     text-wrap: balance;
   }
 }
+
+section {
+  min-height: 100vh;
+  height: 100vh;
+  margin: auto;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
